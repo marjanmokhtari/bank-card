@@ -9,6 +9,12 @@
     <a href="https://github.com/marjanmokhtari/bank-card/issues">Report Bug</a>
     ·
     <a href="https://github.com/marjanmokhtari/bank-card/issues">Request Feature</a>
+    .
+      <p>Technologies Used - javascript , tailwind 
+    .
+    <a href="https://www.linkedin.com/in/marjanmokhtari">linkedin</a>
+    .
+    <a href="https://www.instagram.com/marjanmokhtari.web">instagram</a>
   </p>
 </div>
 
@@ -18,11 +24,7 @@
 
 https://github.com/marjanmokhtari/bank-card/assets/143844652/cdc7ae5d-3ed6-4157-ada1-ff84778a3bd7
 
-<div align="center">
-  <p>Technologies Used - javascript , tailwind 
-  </p>
-</div>
 
- How to reach me : with my [instagram](https://www.instagram.com/marjanmokhtari.web) and [linkedin](https://www.linkedin.com/in/marjanmokhtari)
+
 
 

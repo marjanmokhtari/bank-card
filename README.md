@@ -11,7 +11,7 @@
     <a href="https://github.com/marjanmokhtari/bank-card/issues">Request Feature</a>
     .
       <p>Technologies Used - javascript , tailwind 
-    .
+        <br/>
         <br/>
     <a href="https://www.linkedin.com/in/marjanmokhtari">linkedin</a>
     .

@@ -8,7 +8,7 @@
     ·
     <a href="https://github.com/marjanmokhtari/bank-card/issues">Report Bug</a>
     ·
-    <a href="https://github.com/moeinparvizi/galaxy-skills-rotation/issues">Request Feature</a>
+    <a href="https://github.com/marjanmokhtari/bank-card/issues">Request Feature</a>
   </p>
 </div>
 
@@ -18,5 +18,5 @@
 
 https://github.com/marjanmokhtari/bank-card/assets/143844652/cdc7ae5d-3ed6-4157-ada1-ff84778a3bd7
 
-- developer by Marjan Mokhtari
+
 

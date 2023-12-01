@@ -1,4 +1,20 @@
-# bank-card
+<div align="center">
+
+  <h3 align="center">galaxy skills rotation</h3>
+
+  <p align="center">
+    You can get more information from my trick here
+    <br />
+    <a href="https://github.com/moeinparvizi/galaxy-skills-rotation"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://moeinparvizi.github.io/galaxy-skills-rotation/">View Demo</a>
+    ·
+    <a href="https://github.com/moeinparvizi/galaxy-skills-rotation/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/moeinparvizi/galaxy-skills-rotation/issues">Request Feature</a>
+  </p>
+</div>
 
 [demo](https://marjanmokhtari.github.io/bank-card/)
 

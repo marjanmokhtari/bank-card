@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+::placeholder{
+  color: red;
+}
+
+.card,.card2 {
+  background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1));
+}
+
+
+.circle-green,button {
+  background: linear-gradient(to right bottom, yellowgreen, rgb(0, 105, 0));
+  
+}
+
+
+.card2{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.bdr{
+
+    border-top: 2px solid rgba(200, 200, 200, 0.555);
+    border-left: 2px solid rgba(255, 255, 255, 0.4);
+    border-right: 2px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+ 
+   
+   
+}
+#datacard1,#datacard2{
+  border: none;
+}

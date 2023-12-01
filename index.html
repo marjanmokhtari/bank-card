@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="assets/css/output.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body class="bg-[#222] ">
+  <main class="w-full">
+    <div class=" card absolute top-[120px] left-[10%] w-[35%] h-[350px] z-10 rounded-xl shadow-[#333] shadow-md">
+      <h1 class="card-bank mb-[150px] ml-5 text-white text-3xl p-2">Royalbank</h1>
+      <input id="numcard" class="outline-none bg-[#ffffff00] text-white card-text text-white ml-5 text-3xl" placeholder="0000 - 0000 - 0000 - 0000"></input>
+      <div class="flex mt-5 justify-center">
+        <div class="w-1/2 flex">
+          <p class="ml-5 text-xl text-white tracking-wider">cvv2: </p>
+          <span id="cvv2box" class="text-white text-xl ml-2"></span>
+        </div>
+        <div class="w-1/2 flex ">
+          <p class="text-xl text-white ">Expiration Date:</p>
+          <input id="datacard1" class="text-white text-center text-xl outline-none bg-[#ffffff00] w-[50px]"
+            placeholder="00"></input>
+          <span class="text-white text-2xl">/</span>
+          <input id="datacard2" class="text-white text-center text-xl outline-none bg-[#ffffff00] w-[50px]"
+            placeholder="00"></input>
+        </div>
+      </div>
+
+      <div
+        class="circle-red left-[83%] bg-orange-600 z-10 absolute w-[60px] h-[60px] rounded-full top-[280px] opacity-80">
+      </div>
+      <div
+        class="circle-yellow absolute left-[88%] bg-yellow-400 w-[60px] h-[60px] rounded-full top-[280px] opacity-80">
+      </div>
+    </div>
+
+    <div class="circle-green opacity-95 absolute rounded-full w-[100px] h-[100px] left-[6%] top-[10%] circle-1"></div>
+    <div class="circle-green opacity-95 absolute rounded-full w-[150px] h-[150px] left-[15%] top-[50%] circle-2"></div>
+    <div class="circle-green opacity-95 absolute rounded-full w-[170px] h-[170px] left-[40%] top-[20%] circle-3"></div>
+    
+
+    <div
+      class="card2 flex flex-wrap justify-center absolute top-[120px] right-[10%] w-[35%] h-[350px] z-10 rounded-xl shadow-[#333] shadow-md">
+      <div class="flex flex-wrap">
+        <h2 class="text-white w-full text-2xl p-3">Royalbank Card Number :</h2>
+        <input
+          class="bdr myinp outline-none bg-[#ffffff00]  py-2 text-white mx-3 rounded-lg w-full text-2xl text-center"
+          type="text" id="inpnum">
+        <h2 class="w-full text-2xl text-white p-3 ">cvv2: </h2>
+        <input class="bdr outline-none bg-[#ffffff00] py-1 ms-3 text-center text-white  rounded-lg text-2xl" type="text"
+          id="cvv2" placeholder="000">
+        <div class="flex flex-wrap">
+          <p class="w-full text-white p-3 text-2xl">Expiration Date:</p>
+          <div class="bdr rounded-lg ms-3 flex justify-between">
+            <input class="text-white outline-none bg-[#ffffff00] w-[60px]  ps-5" type="text" placeholder="00"
+              id="date1">
+            <span class="text-white text-2xl">/</span>
+            <input class="text-white outline-none bg-[#ffffff00] w-[60px] ps-5" type="text" placeholder="00" id="date2">
+          </div>
+
+
+        </div>
+      </div>
+      <button id="btn" class=" rounded-md bg-green-600  w-1/4 text-2xl text-white my-3  text-center">submit</button>
+    </div>
+
+  </main>
+  <script src="assets/js/script.js"></script>
+</body>
+</html>

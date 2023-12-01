@@ -12,6 +12,7 @@
     .
       <p>Technologies Used - javascript , tailwind 
     .
+        <br/>
     <a href="https://www.linkedin.com/in/marjanmokhtari">linkedin</a>
     .
     <a href="https://www.instagram.com/marjanmokhtari.web">instagram</a>

@@ -18,5 +18,11 @@
 
 https://github.com/marjanmokhtari/bank-card/assets/143844652/cdc7ae5d-3ed6-4157-ada1-ff84778a3bd7
 
+<div align="center">
+  <p>Technologies Used - javascript , tailwind 
+  </p>
+</div>
+
+ How to reach me : with my [instagram](https://www.instagram.com/marjanmokhtari.web) and [linkedin](https://www.linkedin.com/in/marjanmokhtari)
 
 

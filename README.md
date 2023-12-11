@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3 align="center" font-weight: bold>Bank card</h3>
+  <h3 align="center" style="font-weight: bold;">Bank card</h3>
 
   <p align="center">
     <br />
